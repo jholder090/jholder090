@@ -14,8 +14,7 @@ project!
 
 <h3>Let's connect!</h3>
 <img align="left" alt="linkedin" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-
-
+<br>
 
 ### Languages and Tools
 <img align="left" alt="javascript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
