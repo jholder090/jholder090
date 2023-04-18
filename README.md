@@ -13,7 +13,9 @@ project!
 
 
 <h3>Let's connect!</h3>
+<a href="https://www.linkedin.com/in/josephkholder/">
 <img align="left" alt="linkedin" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+</a>
 <br>
 <br>
 
